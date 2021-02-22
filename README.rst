@@ -171,12 +171,3 @@ stay under the monthly limits or cost you $0.01/month with rounding up.
 You should refer to the AWS documentation to see the most up to date usage
 tiers and pricing.
 
-
-License
--------
-
-This is free software distributed under the included
-`BSD license <https://github.com/mlavin/cloudping/blob/master/LICENSE.rst>`_. You
-are free to copy, modify, and redistribute under the terms listed there. Please
-note that this is provide "as-is" without warranty. You are responsible for any
-changes that using this software might generate on your AWS account.
